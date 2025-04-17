@@ -19,6 +19,6 @@ It includes the following tables:
 
 ## Screenshot of the Dashboard:
 Below is the screenshot of the Power BI dashboard created for this analysis.
-![image alt](https://github.com/ZaynebMegdich1/HR-Dashboard-Burnout-Performance-Insights/blob/379026c75e7f9173534bb7ae7ef14b7546f0c857/hr%20dash.JPG)
+![image alt](https://github.com/ZaynebMegdich1/HR-Dashboard-Burnout-Performance-Insights/blob/3a65f4a98172b1ec6c770478ba50353dab22b978/HR%20dashboard.JPG)
 
 
